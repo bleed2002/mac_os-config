@@ -159,6 +159,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Contrast](https://usecontrast.com)
     - [DaisyDisk](http://www.daisydiskapp.com)
     - [Fantastical](http://flexibits.com/fantastical)
+    - [Forecast Bar](http://forecastbar.com/mac)
     - [GarageBand](http://www.apple.com/ilife/garageband)
     - [Gifox](https://gifox.io)
     - [Gradient](http://www.gradientapp.com)
